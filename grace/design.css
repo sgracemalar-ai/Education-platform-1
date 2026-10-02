@@ -1,0 +1,52 @@
+body{
+    font-size: 0.625% !important;   /*10px*/
+
+}
+.customize-navbar{
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+
+.nav-item a{
+    font-size: 1rem;
+}
+
+.navbar .navbar-brand p{
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.btn{
+    text-transform:uppercase;
+}
+
+.customize-btn{
+    background-color:white;
+}
+
+.customize-banner{
+
+}
+
+
+.customize-banner-box{
+    height: 10rem;
+    width: 30rem;
+    background-color: #00bcd5;
+    position: absolute;
+    top: -3rem;
+    right: 0;
+    transform: rotate(-5.5deg);
+    border-radius: 2rem;
+}
+
+
+.customize-banner-box{
+
+}
+
+
+.btn i {
+    fornt-size: 1.5rem;
+    color: white
+}
